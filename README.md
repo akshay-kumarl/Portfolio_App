@@ -1,4 +1,4 @@
-# Someswararao Tarra - Devops/Data science/Cloud Engineer Portfolio Website
+# Akshay L - Devops/Data science/Cloud Engineer Portfolio Website
 
 A premium, modern, and fully responsive Devops/Data science/Cloud Engineer portfolio website designed for recruiters and hiring managers. This portfolio showcases hands-on engineering capabilities in AWS Cloud Architecture, Linux Administration, DevOps Automation, and Data Science.
 
